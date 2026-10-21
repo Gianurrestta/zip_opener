@@ -89,7 +89,7 @@ btn_descomprimir = tk.Button(
     command=descomprimir_zip,
     bg="#4CAF50",
     fg="white",
-    font=("Arial", 11),
+    font=("Arial", 12),
     padx=10,
     pady=5,
 )
@@ -101,7 +101,7 @@ btn_comprimir = tk.Button(
     command=comprimir_a_zip,
     bg="#2196F3",
     fg="white",
-    font=("Arial", 11),
+    font=("Arial", 12),
     padx=10,
     pady=5,
 )
