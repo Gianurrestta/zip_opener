@@ -75,6 +75,7 @@ def comprimir_a_zip():
 # Configuración de la Ventana Principal
 ventana = tk.Tk()
 ventana.title("ZIP Giancarlo")
+ventana.iconbitmap("faviconZIP.ico")
 ventana.geometry("400x200")
 ventana.resizable(False, False)
 
